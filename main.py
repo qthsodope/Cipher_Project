@@ -166,7 +166,7 @@ substitution_label.grid(row = 3, column = 0, padx = 10)
 substitution_entry = ctk.CTkEntry(param_frame)
 substitution_entry.grid(row = 3, column = 1, padx = 10)
 
-process_button = ctk.CTkButton(app, text = "Xử lý", command = process_text)
+process_button = ctk.CTkButton(app, text = "Thực hiện", command = process_text)
 process_button.pack(pady = 10)
 
 result_frame = ctk.CTkFrame(app)
