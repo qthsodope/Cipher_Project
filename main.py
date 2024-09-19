@@ -193,5 +193,5 @@ copy_button.grid(row = 0, column = 2, padx = 10)
 app.mainloop()
 
 """
-by 23010680 | Nguyen Quoc Thien | Cantho City | K17 - Computer Science_1 - Phenikaa University
+by 23010680 | Nguyen Quoc Thien | Hanoi Capital & Cantho City | K17 - Computer Science_1 | Phenikaa University
 """
