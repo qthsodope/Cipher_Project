@@ -18,7 +18,7 @@ def caesar_cipher(text, shift, encrypt=True):
             result += char
     return result
 
-def affine_cipher(text, a, b, encrypt=True):
+def affine_cipher(text, a, b, encrypt = True):
     def affine_char(c, a, b, encrypt):
         if c.isalpha():
             base = 65 if c.isupper() else 97
