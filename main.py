@@ -5,7 +5,7 @@ import string
 import pyperclip
 
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("green")
+ctk.set_default_color_theme("blue")
 
 def caesar_cipher(text, shift, encrypt=True):
     result = ""
